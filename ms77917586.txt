@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "mpcny.org",
+  "Id": "a7c14c4e-e296-4445-aeb5-aa7dbccd0e61"
+}
