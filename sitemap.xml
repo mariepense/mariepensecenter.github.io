@@ -53,11 +53,6 @@
   </url>
   
   <url>
-    <loc>https://www.mariepensecenter.com/service/service-4/</loc>
-    <lastmod>2020-07-04T15:27:17+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.mariepensecenter.com/service/service-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
@@ -248,6 +243,11 @@
   </url>
   
   <url>
+    <loc>https://www.mariepensecenter.com/service/service-4/</loc>
+    <lastmod>2018-11-04T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.mariepensecenter.com/about/</loc>
   </url>
   
@@ -265,6 +265,10 @@
   
   <url>
     <loc>https://www.mariepensecenter.com/calendar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.mariepensecenter.com/causes_we_support/</loc>
   </url>
   
   <url>

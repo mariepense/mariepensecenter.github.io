@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>SEIT</title>
-      <link>https://www.mariepensecenter.com/service/service-4/</link>
-      <pubDate>Sat, 04 Jul 2020 15:27:17 +0600</pubDate>
-      
-      <guid>https://www.mariepensecenter.com/service/service-4/</guid>
-      <description>A Special Education Itinerant Teacher (SEIT) provides specialized individual or group instruction and/or indirect services to preschool students with Individualized Education Programs (IEPs).</description>
-    </item>
-    
-    <item>
       <title>ABA</title>
       <link>https://www.mariepensecenter.com/service/service-3/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -46,6 +37,15 @@
       
       <guid>https://www.mariepensecenter.com/service/service-2/</guid>
       <description>All students with disabilities who require special education teacher support services (SETSS) have Individualized Education Programs (IEPs).</description>
+    </item>
+    
+    <item>
+      <title>SEIT</title>
+      <link>https://www.mariepensecenter.com/service/service-4/</link>
+      <pubDate>Sun, 04 Nov 2018 15:27:17 +0600</pubDate>
+      
+      <guid>https://www.mariepensecenter.com/service/service-4/</guid>
+      <description>A Special Education Itinerant Teacher (SEIT) provides specialized individual or group instruction and/or indirect services to preschool students with Individualized Education Programs (IEPs).</description>
     </item>
     
   </channel>
