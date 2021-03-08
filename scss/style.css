@@ -249,7 +249,7 @@ a h4:hover {
     width: 100%;
     top: 0;
     left: 0;
-    background: #6ca4c0;
+    background: #D9EDF7;
     opacity: .8; }
 
 .outline-0 {
@@ -262,7 +262,7 @@ a h4:hover {
   background: #ffbc3b !important; }
 
 .bg-secondary {
-  background: #6ca4c0 !important; }
+  background: #D9EDF7 !important; }
 
 .bg-gray {
   background: #f8f8f8; }
@@ -471,10 +471,10 @@ textarea.form-control {
   transition: .2s ease; }
   @media (max-width: 991px) {
     .navigation {
-      background: #6ca4c0; } }
+      background: #D9EDF7; } }
 @media (max-width: 991px) {
   .navbar-collapse {
-    background: #6ca4c0; } }
+    background: #D9EDF7; } }
 
 .navbar-nav {
   padding-left: 50px;
@@ -482,9 +482,9 @@ textarea.form-control {
   @media (max-width: 991px) {
     .navbar-nav {
       padding-left: 0;
-      background: #6ca4c0; } }
+      background: #D9EDF7; } }
 .nav-bg {
-  background-color: #6ca4c0; }
+  background-color: #D9EDF7; }
 
 .nav-item {
   margin: 0 15px;
@@ -779,7 +779,7 @@ link:focus,
   height: 90px; }
 
 .bg-footer {
-  background-color: #86c1fc; }
+  background-color: #D9EDF7; }
 
 .logo-footer {
   margin-top: -20px;
